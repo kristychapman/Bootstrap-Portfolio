@@ -1,4 +1,12 @@
+body{
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-image: url('./images/concrete_seamless.png');
+    width: 100%;
+}
+
 .navbar-brand{
-    margin: 260px;
+    margin: 0 0 0 260px;
     background-color: #4AAAA5;
 }
